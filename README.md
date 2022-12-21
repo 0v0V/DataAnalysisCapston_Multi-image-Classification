@@ -10,7 +10,7 @@
 ### 2.1 데이터
 출처 : AI Hub 음식 이미지 및 영양정보 텍스트 데이터의 정밀 촬영 음식 이미지<br/>
 링크 : <https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=74><br/>
-42000개의 이미지 데이터 : 음식 종류 : 83개 / 양 : Q1~Q5 5단계로 구성
+42000개의 이미지 데이터 : 음식 종류 : 83개 / 양 : [Q1~Q5] 5단계로 구성
 <br/>__[예시]__
 ![side_건더기국류_뚝배기_갈비탕_Q4_00001](https://user-images.githubusercontent.com/37768648/208874525-9d9c816b-13ca-458c-b699-4e826d2bc197.JPG)
 
