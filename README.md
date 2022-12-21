@@ -1,4 +1,5 @@
-# CNN based multi class classification <br/>for Diet evaluation and Design
+# CNN based Multi-classification & Quantity Estimation For Diet evaluation and Design
+
 
 ## 1. 개요
 바쁜 일상을 보내는 현대인들은 본인이 먹는 음식의 성분을 불균형한 식사를 하는 일이 빈번하다. 
