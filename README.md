@@ -38,7 +38,7 @@
 * SeNet : 99.96%
 
 #### 음식 양 추정 
-* MaskRCNN + Volume Estimation : 비국물류 음식 탐지 및 부피 측정 우수, 국물류 추정 불가
+* MaskRCNN + Volume Estimation : 비국물류 음식 탐지 및 부피 측정 우수, 국물류 추정 미흡
 
 * Multi Reference(Text, Coin size) CNN model : 84%[Accuracy]
 
