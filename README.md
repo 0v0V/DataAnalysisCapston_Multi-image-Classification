@@ -44,7 +44,7 @@
 
 * __Only CNN model : 96%[Accuracy]__
 
-### 3. 최종 결과
+## 3. 최종 결과
 
 #### 음식 종류 분류
 * SeNet
