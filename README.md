@@ -1,4 +1,4 @@
-# CNN based Multi-classification & Quantity Estimation For Diet evaluation and Design
+# CNN based Multi-classification & Quantity Estimation <br/>For Diet evaluation and Design
 
 
 ## 1. 개요
