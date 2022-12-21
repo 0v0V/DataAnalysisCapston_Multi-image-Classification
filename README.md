@@ -6,4 +6,8 @@
 <br/>프로젝트를 진행하였다. 
 
 ## 2. 데이터
-<img src=""C:\Users\ssh99\OneDrive\바탕 화면\경희대학교\3-2\데캡디\최종 정리\side_건더기국류_뚝배기_갈비탕_Q4_00001.JPG"", height="100x", width="100px">
+약 42000개의 이미지 데이터 : 음식 종류 : 83개 / 양 : Q1~Q5 5단계로 구성
+<br/>__[예시]__
+![side_건더기국류_뚝배기_갈비탕_Q4_00001](https://user-images.githubusercontent.com/37768648/208874525-9d9c816b-13ca-458c-b699-4e826d2bc197.JPG)
+
+## 3. 
