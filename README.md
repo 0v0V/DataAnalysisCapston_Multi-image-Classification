@@ -55,13 +55,13 @@
 #### 음식 양 추정에서 Only CNN의 SeNet이 가장 성능이 좋게 나와 최종 모델로 선정했다. <br/>통일성을 위해 음식 종류 분류 또한 SeNet을 모델로 선정했다.
 
 ## 4. 프로그램 사용방법
-__line3__<br/>
+__[line3]__<br/>
 ```python
 df = pd.read_excel("/content/drive/MyDrive/DCD_2022/음식분류 AI 데이터 영양DB.xlsx", engine = "openpyxl")
 ```
 1. "Diet Evaluation and Design.ipynb"에서 "음식분류 AI 데이터 영양DB.xlsx"부분을 본인이 저장한 경로로 수정한다.<br/>
 
-__line7__
+__[line7]__
 ```python
 food_model = mobilenet(num_classes=83)
 vol_model = mobilenet(num_classes=5)
@@ -71,7 +71,7 @@ vol_model.load_state_dict(torch.load('/content/drive/MyDrive/Amount of food_SENe
 ```
 2.  이후의 라인들을 실행시키다가 model_weights 폴더에서 다운 받은 "Types of food_SENet_weight.pt"와 "Amount of food_SENet_weight.pt" <br/>파일의 경로로 수정한다.
 
-<br/>__line9__
+<br/>__[line9]__
 ```python
 today_food = ["/content/drive/MyDrive/DCD_2022/음식 이미지 및 영양정보 텍스트/val_cropped/쌀밥/side_밥류_원형배달_쌀밥_Q3_00033.JPG",
     "/content/drive/MyDrive/DCD_2022/음식 이미지 및 영양정보 텍스트/val_cropped/갈비탕/side_건더기국류_뚝배기_갈비탕_Q5_00028.JPG", 
