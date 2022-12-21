@@ -79,4 +79,4 @@ today_food = ["/content/drive/MyDrive/DCD_2022/음식 이미�
 ```
 
 3. today_food에 오늘 하루 먹은 이미지의 경로를 입력한다.<br/> 
-4. 식단을 평가받고 받는다.
+4. 식단을 평가받고 다.
