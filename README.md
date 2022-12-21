@@ -59,7 +59,7 @@ __line3__<br/>
 ```python
 df = pd.read_excel("/content/drive/MyDrive/DCD_2022/음식분류 AI 데이터 영양DB.xlsx", engine = "openpyxl")
 ```
-1. "Diet Evaluation and Design.ipynb"에서 "음식분류 AI 데이터 영양DB.xlsx"부분을 본인이 원하는 경로에 저장해 지정한다.<br/>
+1. "Diet Evaluation and Design.ipynb"에서 "음식분류 AI 데이터 영양DB.xlsx"부분을 본인이 저장한 경로로 수정한다.<br/>
 
 __line7__
 ```python
