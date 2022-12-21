@@ -35,24 +35,24 @@
 
 * ReXNet : 99.8%
 
-* SeNet : 99.96%
+* SENet : 99.96%
 
 #### 음식 양 추정 
 * MaskRCNN + Volume Estimation : 비국물류 음식 탐지 및 부피 측정 우수, 국물류 추정 미흡
 
 * Multi Reference(Text, Coin size) CNN model : 84%[Accuracy]
 
-* __Only CNN model : 96%[Accuracy]__
+* __Only CNN model : 96%(SENet)[Accuracy]__
 
 ## 3. 최종 결과
 
 #### 음식 종류 분류
-* SeNet
+* SENet
 
 #### 음식 양 추정
-* Only CNN : SeNet
+* Only CNN : SENet
 
-#### 음식 양 추정에서 Only CNN의 SeNet이 가장 성능이 좋게 나와 최종 모델로 선정했다. <br/>통일성을 위해 음식 종류 분류 또한 SeNet을 모델로 선정했다.
+#### 음식 양 추정에서 Only CNN의 SENet이 가장 성능이 좋게 나와 최종 모델로 선정했다. <br/>통일성을 위해 음식 종류 분류 또한 SENet을 모델로 선정했다.
 
 ## 4. 프로그램 사용방법
 __[line3]__<br/>
