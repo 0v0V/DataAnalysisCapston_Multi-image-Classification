@@ -69,7 +69,7 @@ vol_model = mobilenet(num_classes=5)
 food_model.load_state_dict(torch.load('/content/drive/MyDrive/Types of food_SENet_weight.pt'))
 vol_model.load_state_dict(torch.load('/content/drive/MyDrive/Amount of food_SENet_weight.pt'))
 ```
-2.  이후 라인을 실행시키다가 model_weights 폴더에서 다운 받은 "Types of food_SENet_weight.pt"와 "Amount of food_SENet_weight.pt" <br/>파일의 위치를 원하는 경로로 지정한다.
+2.  이후의 라인들을 실행시키다가 model_weights 폴더에서 다운 받은 "Types of food_SENet_weight.pt"와 "Amount of food_SENet_weight.pt" <br/>파일의 경로로 수정한다.
 
 <br/>__line9__
 ```python
