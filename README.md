@@ -33,18 +33,18 @@
 ### 2.4 Result
 
 #### 음식 종류 분류[Accuracy]
-* __EfficientNet : 100%__ * 서보민
+* __EfficientNet : 100%__ - 서보민
 
-* ReXNet : 99.8% : * 이채우
+* ReXNet : 99.8% : - 이채우
 
-* SENet : 99.96% : * 신승호
+* SENet : 99.96% : - 신승호
 
 #### 음식 양 추정 
-* MaskRCNN + Volume Estimation : 비국물류 음식 탐지 및 부피 측정 우수, 국물류 측정 미흡 * 서보민
+* MaskRCNN + Volume Estimation : 비국물류 음식 탐지 및 부피 측정 우수, 국물류 측정 미흡 - 서보민
 
-* Multi Reference(Text, Coin size) CNN model : 84%[Accuracy] * 이채우
+* Multi Reference(Text, Coin size) CNN model : 84%[Accuracy] - 이채우
 
-* __Only CNN model : 96%(SENet)[Accuracy]__ * 신승호
+* __Only CNN model : 96%(SENet)[Accuracy]__ - 신승호
 
 ## 3. 최종 결과
 
